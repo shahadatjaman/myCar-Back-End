@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.2",
     "express": "^4.17.3",
     "mongoose": "^6.2.9",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "node server.js",
@@ -11,7 +14,6 @@
   "name": "mycar-back-end",
   "version": "1.0.0",
   "main": "Server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abuhuraira24/myCar-Back-End.git"
