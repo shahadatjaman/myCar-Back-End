@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "name": "mycar-back-end",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuhuraira24/myCar-Back-End.git"
+  },
+  "author": "Abu Huraira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuhuraira24/myCar-Back-End/issues"
+  },
+  "homepage": "https://github.com/abuhuraira24/myCar-Back-End#readme",
+  "description": ""
+}
